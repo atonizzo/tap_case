@@ -9,5 +9,5 @@ similar one this directory contains STL mesh file you will need to print your ow
 
 Anthony Tonizzo
 
-![Metric Tap Case](https://raw.githubusercontent.com/atonizzo/tap_case/images/tap_case.png "Metric Tap Case")
+![Metric Tap Case](images/tap_case.png "Metric Tap Case")
 
